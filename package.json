@@ -1,0 +1,22 @@
+{
+  "name": "phd-farm-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjabang1/phd-farm-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjabang1/phd-farm-nodejs/issues"
+  },
+  "homepage": "https://github.com/pjabang1/phd-farm-nodejs#readme",
+  "dependencies": {
+    "miflora": "^1.0.6"
+  }
+}
