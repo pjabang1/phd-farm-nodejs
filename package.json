@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pjabang1/phd-farm-nodejs#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "miflora": "^1.0.6",
     "node-mi-flora": "^0.2.2",
     "node-mi-flora-classic-updated": "^0.2.0"
